@@ -1,0 +1,3 @@
+displayName = Smart Terraria
+author = TheSkyFather
+version = 0.1

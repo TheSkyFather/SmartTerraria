@@ -1,0 +1,53 @@
+Mods: {
+	SmartTerraria: {
+		Items: {
+			UniversalAdaptationHelmet: {
+				Tooltip: ""
+				DisplayName: Шлем адаптации
+			}
+		}
+
+		SimpleUIState: {
+			Header: Интерфейс статистики
+			Description: Описание и характеристики
+			DescriptionHeader: Описание:
+			DescriptionText: Данная броня способна адаптироваться под любой стиль игры и под любой класс. Автоматически увеличивает свою защиту, даёт бонус к урону, к мане, к здоровью, даёт различные эффекты на разных этапах игры. Данный сет буквально растёт вместе с вами!
+			DefenseStatHelm: Текущая защита шлема:
+			GameStatsHeader: Статистика игры
+			BossesKilled: Убито боссов:
+			BaseBonus: Текущий базовый бонус:
+			AdditionalBonus: Текущий дополнительный бонус:
+			HighestClass: Текущий доминирующий класс:
+			DamageStatsHeader: Статистика урона
+			MeleeDamage: Ближний бой:
+			RangedDamage: Дистанционный урон:
+			MagicDamage: Магический урон:
+			SummonDamage: Призывной урон:
+			MeleeClass: Воин
+			RangedClass: Стрелок
+			MagicClass: Маг
+			SummonClass: Призыватель
+			NotDefinedClass: Не определён
+			EffectStatsHeader: Статистика эффектов
+			ImmuneStatsHeader: Статистика иммунитетов
+			ImmuneLocked: Иммунитет не разблокирован.
+			ImmunePoisonedHeader: Отравление:
+			ImmunePoisonedDescription:
+				'''
+				Доступен после убийства 4 босса.
+				Даёт иммунитет к отравлению.
+				'''
+			ImmuneFireHeader: Иммунитет к огню:
+			ImmuneFireDescription: Доступен после добычи 200 единиц адского камня. Предоставляет игроку вечный иммунитет к огню.
+			ShineEffectHeader: Сияние:
+			ShineEffectDescription: Доступен после убийства 4 босса. При входе в шахту автоматически активирует свечение.
+			MiningEffectHeader: Копание:
+			MiningEffectDescription: Доступен после убийства 6 босса. При входе в шахту автоматически ускоряет скорость копания.
+			SpelunkerEffectHeader: Спелеолог:
+			SpelunkerEffectDescription: Доступен после убийства 6 босса. При входе в шахту автоматически показывает все руды.
+			EffectLocked: Эффект не разблокирован.
+		}
+
+		Keybinds.toggleUI.DisplayName: Показать панель статистики
+	}
+}
