@@ -133,7 +133,8 @@ namespace SmartTerraria
 		private DynamicSpriteFont _font;
 		private float _scale = 1f;
 		
-		
+		 
+		 
 		private UIPanel _effectStatsPanel;
 		private UIPanel _effectHeaderBackground;
 		private UIText _effectHeader;
